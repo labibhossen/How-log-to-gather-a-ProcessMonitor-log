@@ -3,6 +3,7 @@
 This article will guide you on how to gather a ProcessMonitor log. This is a tool that is useful mainly for troubleshooting what files are being opened on your computer, and what keys are being looked at in your registry.
 
 **1. Download ProcessMonitor from here: https://download.sysinternals.com/files/ProcessMonitor.zip**
+**2. https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer**
 To gather a **Process Monitor** (ProcMon) log, follow these steps:
 
 ### Step 1: Download Process Monitor
